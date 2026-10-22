@@ -1,0 +1,14 @@
+ticker,type,sector,sec_entity,cik,latest_filing_form,latest_filing_date,filings_2022,traded_30Dec2022
+MSA,stock,Industrials,MSA Safety Inc,66570,10-Q,2022-10-27,4,True
+KAI,stock,Industrials,KADANT INC,886346,10-Q,2022-11-09,4,True
+GEF,stock,Materials,"GREIF, INC",43920,10-K,2022-12-16,4,True
+IOSP,stock,Materials,INNOSPEC INC.,1054905,10-Q,2022-11-09,4,True
+FLO,stock,Consumer Staples,FLOWERS FOODS INC,1128928,10-Q,2022-11-10,4,True
+CALM,stock,Consumer Staples,CAL-MAINE FOODS INC,16160,10-Q,2022-12-28,4,True
+IDA,stock,Utilities,IDACORP INC,1057877,10-Q,2022-11-03,4,True
+NWN,stock,Utilities,Northwest Natural Holding Co,1733998,10-Q,2022-11-08,4,True
+CHE,stock,Health Care,CHEMED CORP,19584,10-Q,2022-11-02,4,True
+NSIT,stock,Information Technology,INSIGHT ENTERPRISES INC,932696,10-Q,2022-11-03,4,True
+XMLV,ETF,diversified,Invesco Exchange-Traded Fund Trust II,1378872,NPORT-P,2022-12-30,355,True
+RWL,ETF,diversified,Invesco Exchange-Traded Fund Trust II,1378872,NPORT-P,2022-12-30,355,True
+SPY,benchmark ETF,diversified,SPDR S&P 500 ETF TRUST,884394,NPORT-P,2022-11-28,7,True
